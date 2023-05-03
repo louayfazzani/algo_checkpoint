@@ -1,1 +1,1 @@
-# function js wothout html form-
+# function js without html form-
